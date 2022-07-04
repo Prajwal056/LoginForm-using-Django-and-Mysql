@@ -1,4 +1,9 @@
 LoginForm-using-Django-and-Mysql
 
-[pip install -r requirements.txt]
 
+clone git repo:
+```
+git clone "https://github.com/Prajwal056/LoginForm-using-Django-and-Mysql.git"
+
+pip install -r requirements.txt
+```
